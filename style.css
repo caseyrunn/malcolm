@@ -1,0 +1,27 @@
+.modalTitle{
+    font-weight: bolder;
+    padding-right: .5rem;
+}
+
+.modalDescription{
+    font-style: italic;
+}
+
+.modal-header{
+    padding-bottom: .5rem;
+    padding-top: .5rem;
+}
+
+.modal-body{
+    padding-top: 0
+}
+
+.modalCaption{
+    margin-bottom: 0
+}
+
+.container-fluid{
+    padding-left: 3;
+    padding-right: 0;
+}
+
